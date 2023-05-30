@@ -14,7 +14,7 @@
 ## 🛠 Используемые инструменты
 - 💻 Python
 - 🌐 HTML5, PHP, CSS, JavaScript, Bootstrap, Node.js
-- 🛢 MySQL
+- 🛢 MySQL, PostreSQL, SQLite
 - 🔧 Visual Studio Code, Sublime Text 3 
 - 🖥 Photoshop, Figma, Illustrator
 
