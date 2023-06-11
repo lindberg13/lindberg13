@@ -37,7 +37,7 @@
 Вы можете связаться со мной:
 
 - ВКонтакте: [vk.com/moidvk](https://vk.com/moidvk)
-- Discord: liberty#7777
+- Discord: liberty#6693
 - Telegram: [t.me/lindbergv](https://t.me/lindbergv)
 
 ## Буду рад общению и помочь кому-то!
