@@ -1,7 +1,7 @@
 
 ## 👋 hi, i am lindberg13
 <!-- Баннер -->
-⚙️ Middle-Developer for node/python, practing for React Native/Electron.js
+⚙️ Middle-Developer for Node.js/Python
 
 ## 🛠 Используемые инструменты
 
