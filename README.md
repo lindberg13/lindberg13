@@ -33,7 +33,6 @@
 - Discord: lindberg13
 - Telegram: [t.me/lindbergv](https://t.me/lindbergv)
 
-## Буду рад общению и помочь кому-то!
 <!-- Баннер -->
 <p align="">
     <img src="https://cdn.wallpapersafari.com/26/6/DndW95.gif" alt="Прощание" />
