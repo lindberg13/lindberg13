@@ -30,7 +30,7 @@
 Вы можете связаться со мной:
 
 - ВКонтакте: [vk.com/moidvk](https://vk.com/moidvk)
-- Discord: lindberg13
+- Discord: lindberg.dev#0
 - Telegram: [t.me/lindbergv](https://t.me/lindbergv)
 
 <!-- Баннер -->
