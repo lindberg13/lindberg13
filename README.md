@@ -31,7 +31,7 @@
 
 - ВКонтакте: [vk.com/moidvk](https://vk.com/moidvk)
 - Discord: lindberg.dev#0
-- Telegram: [t.me/lindbergv](https://t.me/lindbergv)
+- Telegram: [t.me/root13gg](https://t.me/root13gg)
 
 <!-- Баннер -->
 <p align="">
